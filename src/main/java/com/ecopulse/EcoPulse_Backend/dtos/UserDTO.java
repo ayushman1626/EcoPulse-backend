@@ -1,10 +1,10 @@
 package com.ecopulse.EcoPulse_Backend.dtos;
 
-
-import com.ecopulse.EcoPulse_Backend.model.User;
+import com.example.demo.model.User;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
+
 
 public class UserDTO {
     private UUID id;
