@@ -1,7 +1,8 @@
 package com.ecopulse.EcoPulse_Backend.dtos.access;
 
-import com.example.demo.model.User;
-import com.example.demo.model.enums.Role;
+
+import com.ecopulse.EcoPulse_Backend.enums.Role;
+import com.ecopulse.EcoPulse_Backend.model.User;
 
 public class InterfaceAccessDTO {
     private String userId;

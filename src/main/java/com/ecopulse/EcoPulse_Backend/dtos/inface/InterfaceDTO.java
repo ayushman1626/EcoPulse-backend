@@ -1,6 +1,6 @@
 package com.ecopulse.EcoPulse_Backend.dtos.inface;
 
-import com.example.demo.model.Interface;
+import com.ecopulse.EcoPulse_Backend.model.Interface;
 import lombok.Data;
 
 @Data
